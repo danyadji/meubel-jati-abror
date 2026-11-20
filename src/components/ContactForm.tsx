@@ -19,7 +19,7 @@ export default function ContactForm({ waNumber }: ContactFormProps) {
       return;
     }
 
-    const text = `Halo Inspiring Furni, nama saya ${name.trim()}.\n\n${message.trim()}`;
+    const text = `Halo Meubel Jati Abror, nama saya ${name.trim()}.\n\n${message.trim()}`;
     const url = `https://wa.me/${waNumber}?text=${encodeURIComponent(text)}`;
 
     setSubmitted(true);

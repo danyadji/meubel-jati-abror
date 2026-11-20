@@ -26,7 +26,8 @@ interface OrderRequestPayload {
   website?: string; // Honeypot field for bot detection
 }
 
-const wpApiUrl = process.env.WP_API_URL ?? "";
+const rawWpApiUrl = process.env.WP_API_URL ?? "";
+const wpApiUrl = rawWpApiUrl.replace(/\/wp-json\/wc\/v3\/?$/, "").replace(/\/+$/, "");
 const wcOrderKey = process.env.WC_ORDER_KEY ?? "";
 const wcOrderSecret = process.env.WC_ORDER_SECRET ?? "";
 const isVercelLocalhost =
@@ -294,7 +295,7 @@ export async function POST(req: NextRequest) {
     }
 
     // 6. Record order to WooCommerce or generate reference
-    let orderId = `IF-${Math.floor(1000 + Math.random() * 9000)}`;
+    let orderId = `MJA-${Math.floor(1000 + Math.random() * 9000)}`;
 
     if (!useSampleData && wpApiUrl && wcOrderKey && wcOrderSecret) {
       try {
@@ -310,7 +311,7 @@ export async function POST(req: NextRequest) {
             payment_method: "bacs",
             payment_method_title: "Transfer Bank / WhatsApp (DP & Kargo Jepara)",
             set_paid: false,
-            customer_note: "Pesanan via Web Inspiring Furni (Checkout WhatsApp). Menunggu konfirmasi ongkir kargo truk Jepara.",
+            customer_note: "Pesanan via Web Meubel Jati Abror (Checkout WhatsApp). Menunggu konfirmasi ongkir kargo truk Jepara.",
             billing: {
               first_name: customerName.trim(),
               email: customerEmail.trim() || undefined,
@@ -341,7 +342,7 @@ export async function POST(req: NextRequest) {
             meta_data: [
               {
                 key: "_checkout_source",
-                value: "Inspiring Furni Web (WhatsApp Checkout)",
+                value: "Meubel Jati Abror Web (WhatsApp Checkout)",
               },
               {
                 key: "_customer_phone",

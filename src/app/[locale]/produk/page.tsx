@@ -8,6 +8,7 @@ import {
   buildCanonicalAndAlternates,
   buildBreadcrumbJsonLd,
 } from "@/lib/seo";
+import { siteConfig } from "@/config/site";
 import ProductCatalogList from "@/components/ProductCatalogList";
 
 interface Props {
@@ -34,7 +35,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title,
       description,
       url: alternates.canonical,
-      siteName: "Inspiring Furni",
+      siteName: siteConfig.name,
       locale: locale === "en" ? "en_US" : "id_ID",
       type: "website",
       images: [

@@ -1,12 +1,15 @@
 @import "tailwindcss";
 
 :root {
-  --color-ink: #1C1B19;
-  --color-paper: #FFFFFF;
-  --color-surface: #F5F2EC;
-  --color-line: #E4DFD6;
-  --color-muted: #6B665E;
-  --color-accent: #8A5A2B;
+  /* Meubel Jati Abror - Warm Artisan Teak & Solid Wood Palette */
+  --color-ink: #141210;
+  --color-paper: #FAF7F2;
+  --color-surface: #F0EAE1;
+  --color-surface-hover: #E7DFD4;
+  --color-line: #E2D9CC;
+  --color-muted: #6C6356;
+  --color-accent: #B45309;
+  --color-accent-hover: #92400E;
   --color-whatsapp: #25D366;
 
   --background: var(--color-paper);
@@ -17,12 +20,16 @@
   --color-ink: var(--color-ink);
   --color-paper: var(--color-paper);
   --color-surface: var(--color-surface);
+  --color-surface-hover: var(--color-surface-hover);
   --color-line: var(--color-line);
   --color-muted: var(--color-muted);
   --color-accent: var(--color-accent);
+  --color-accent-hover: var(--color-accent-hover);
   --color-whatsapp: var(--color-whatsapp);
-  --font-sans: var(--font-dm-sans);
+  --font-sans: var(--font-plus-jakarta);
+  --font-serif: var(--font-playfair);
   --font-mono: var(--font-dm-mono);
+  --font-dm-sans: var(--font-plus-jakarta);
 }
 
 html {
@@ -66,8 +73,14 @@ button:focus-visible,
 input:focus-visible,
 select:focus-visible,
 textarea:focus-visible {
-  outline: 2px solid var(--color-ink);
+  outline: 2px solid var(--color-accent);
   outline-offset: 2px;
+}
+
+/* Woodcraft grain subtle background texture helper */
+.grain-overlay {
+  background-image: radial-gradient(rgba(20, 18, 16, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
 }
 
 /* Marquee animation for announcement bar */
@@ -90,7 +103,7 @@ textarea:focus-visible {
   animation-play-state: paused;
 }
 
-/* Antislop R-39 & DESIGN.md: Respect reduced motion */
+/* Antislop R-39: Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

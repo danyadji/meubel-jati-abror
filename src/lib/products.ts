@@ -52,7 +52,8 @@ export interface Product {
   seoDescription?: string;
 }
 
-const wpApiUrl = process.env.WP_API_URL ?? "";
+const rawWpApiUrl = process.env.WP_API_URL ?? "";
+const wpApiUrl = rawWpApiUrl.replace(/\/wp-json\/wc\/v3\/?$/, "").replace(/\/+$/, "");
 const wcReadKey = process.env.WC_READ_KEY ?? "";
 const wcReadSecret = process.env.WC_READ_SECRET ?? "";
 
@@ -641,6 +642,14 @@ export async function getProductById(id: number, locale: string = "id"): Promise
 }
 
 const CATEGORY_DEFAULT_IMAGES: Record<string, string> = {
+  "kursi-sofa-jati": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=800&q=80",
+  "lemari-bufet-tv": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=800&q=80",
+  "meja-kerja-belajar": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=800&q=80",
+  "meja-kopi-tamu": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=800&q=80",
+  "meja-makan-jati": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=800&q=80",
+  "dipan-tempat-tidur": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80",
+  "jendela-kusen-bulat": "/images/products/jendela-kusen-bulat-hitam-1.png",
+  "kusen-pintu-jendela": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
   "ruang-tamu": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
   "ruang-makan": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=800&q=80",
   "kamar-tidur": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80",

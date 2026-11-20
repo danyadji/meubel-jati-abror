@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { DM_Sans, DM_Mono } from "next/font/google";
+import { Plus_Jakarta_Sans, Playfair_Display, DM_Mono } from "next/font/google";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
@@ -18,10 +18,15 @@ export const viewport: Viewport = {
   initialScale: 1,
 };
 
-const dmSans = DM_Sans({
-  variable: "--font-dm-sans",
+const plusJakartaSans = Plus_Jakarta_Sans({
+  variable: "--font-plus-jakarta",
   subsets: ["latin"],
-  weight: ["400", "500", "700"],
+  display: "swap",
+});
+
+const playfairDisplay = Playfair_Display({
+  variable: "--font-playfair",
+  subsets: ["latin"],
   display: "swap",
 });
 
@@ -111,7 +116,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <body
-        className={`${dmSans.variable} ${dmMono.variable} antialiased min-h-screen flex flex-col bg-[var(--color-paper)] text-[var(--color-ink)] selection:bg-[var(--color-ink)] selection:text-white`}
+        className={`${plusJakartaSans.variable} ${playfairDisplay.variable} ${dmMono.variable} antialiased min-h-screen flex flex-col bg-[var(--color-paper)] text-[var(--color-ink)] selection:bg-[var(--color-accent)] selection:text-white`}
       >
         <NextIntlClientProvider messages={messages}>
           <CartProvider>

@@ -127,7 +127,7 @@ export function buildProductJsonLd(product: Product, locale: string) {
       url: productUrl,
       seller: {
         "@type": "Organization",
-        name: "Inspiring Furni",
+        name: siteConfig.name,
       },
     };
   } else {
@@ -140,7 +140,7 @@ export function buildProductJsonLd(product: Product, locale: string) {
       url: productUrl,
       seller: {
         "@type": "Organization",
-        name: "Inspiring Furni",
+        name: siteConfig.name,
       },
     };
   }
@@ -151,11 +151,11 @@ export function buildProductJsonLd(product: Product, locale: string) {
     name: product.name,
     image: imageList,
     description: stripHtmlAndTruncate(product.short_description || product.description, 300),
-    sku: product.sku || `IF-${product.id}`,
+    sku: product.sku || `MJA-${product.id}`,
     url: productUrl,
     brand: {
       "@type": "Brand",
-      name: "Inspiring Furni",
+      name: siteConfig.name,
     },
     offers,
   };

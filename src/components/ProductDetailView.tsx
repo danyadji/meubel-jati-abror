@@ -9,6 +9,7 @@ import { useCart } from "@/context/CartContext";
 import { getSiteUrl } from "@/lib/seo";
 import { formatProductDescription } from "@/lib/format";
 import ProductCard, { formatRupiah } from "@/components/ProductCard";
+import { siteConfig } from "@/config/site";
 
 interface ProductDetailViewProps {
   product: Product;
@@ -443,7 +444,7 @@ export default function ProductDetailView({
       try {
         await navigator.share({
           title: product.name,
-          text: `${product.name} · Inspiring Furni Jepara`,
+          text: `${product.name} · ${siteConfig.name} Jepara`,
           url,
         });
         return;

@@ -9,6 +9,7 @@ import {
   buildCanonicalAndAlternates,
   buildBreadcrumbJsonLd,
 } from "@/lib/seo";
+import { siteConfig } from "@/config/site";
 
 export const revalidate = 60;
 
@@ -34,7 +35,7 @@ export async function generateMetadata({
       title,
       description,
       url: alternates.canonical,
-      siteName: "Inspiring Furni",
+      siteName: siteConfig.name,
       locale: locale === "en" ? "en_US" : "id_ID",
       type: "website",
       images: [
@@ -66,7 +67,7 @@ export default async function AboutPage({
   const t = await getTranslations({ locale, namespace: "About" });
   const tMeta = await getTranslations({ locale, namespace: "Metadata" });
   const tWa = await getTranslations({ locale, namespace: "WhatsApp" });
-  const waNumber = process.env.NEXT_PUBLIC_WA_NUMBER || "6289518906727";
+  const waNumber = process.env.NEXT_PUBLIC_WA_NUMBER || siteConfig.whatsappNumber;
 
   const breadcrumbsJsonLd = buildBreadcrumbJsonLd(
     [
@@ -82,114 +83,162 @@ export default async function AboutPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsJsonLd) }}
       />
-      <div className="max-w-[1280px] mx-auto px-4 sm:px-8 py-10 sm:py-20 space-y-14 font-[family-name:var(--font-dm-sans)]">
-      <div className="max-w-3xl">
-        <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)]">
-          {t("badge")}
-        </span>
-        <h1 className="text-3xl sm:text-5xl font-light text-[var(--color-ink)] tracking-tight mt-1 font-[family-name:var(--font-dm-sans)]">
-          {t("title")}
-        </h1>
-        <p className="mt-4 text-sm sm:text-base text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-dm-sans)]">
-          {t("description")}
-        </p>
-      </div>
-
-      {/* Visual Banner with depth, cinematic color grade, and shadow */}
-      <div className="relative aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden shadow-2xl ring-1 ring-black/10 group">
-        <Image
-          src="/images/bg-hero-2.jpeg"
-          alt="Workshop Inspiring Furni Jepara"
-          fill
-          priority
-          sizes="(max-width: 1280px) 100vw, 1280px"
-          className="object-cover brightness-[0.92] contrast-[1.08] saturate-[1.15] sepia-[0.06] transition-transform duration-700 ease-out group-hover:scale-[1.02]"
-        />
-        {/* Subtle warm color grading overlay */}
-        <div className="absolute inset-0 bg-amber-950/15 mix-blend-multiply pointer-events-none" />
-        {/* Darkening gradient scrim */}
-        <div className="absolute inset-0 bg-gradient-to-t from-stone-950/65 via-stone-950/20 to-stone-950/35 pointer-events-none" />
-        {/* Soft edge inner shadow vignette */}
-        <div className="absolute inset-0 shadow-[inset_0_0_90px_rgba(0,0,0,0.45)] pointer-events-none" />
-      </div>
-
-      {/* Story Sections */}
-      <div className="max-w-3xl space-y-10 text-[var(--color-ink)] leading-relaxed text-sm sm:text-base font-[family-name:var(--font-dm-sans)]">
-        <div className="space-y-3">
-          <h2 className="text-xl sm:text-2xl font-light tracking-tight text-[var(--color-ink)] font-[family-name:var(--font-dm-sans)]">
-            {t("sectionWhyTitle")}
-          </h2>
-          <p className="text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-dm-sans)]">
-            {t("sectionWhyP1")}
-          </p>
-          <p className="text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-dm-sans)]">
-            {t("sectionWhyP2")}
-          </p>
+      <div className="max-w-[1280px] mx-auto px-4 sm:px-8 py-10 sm:py-16 space-y-16 sm:space-y-24">
+        {/* Header: Hanya Judul "Tentang Kami" di Tengah Halaman */}
+        <div className="text-center max-w-2xl mx-auto border-b border-[var(--color-line)] pb-8 sm:pb-12">
+          <h1 className="text-3xl sm:text-5xl font-light text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-serif)]">
+            {t("title")}
+          </h1>
         </div>
 
-        <div className="space-y-3">
-          <h2 className="text-xl sm:text-2xl font-light tracking-tight text-[var(--color-ink)] font-[family-name:var(--font-dm-sans)]">
-            {t("sectionDirectTitle")}
-          </h2>
-          <p className="text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-dm-sans)]">
-            {t("sectionDirectP")}
-          </p>
+        {/* 3 Story Sections with Real Workshop Documentation */}
+        <div className="space-y-16 sm:space-y-24">
+          {/* SECTION 1: Image Left, Text Right */}
+          <section className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-14 items-center">
+            <div className="lg:col-span-6">
+              <div className="relative aspect-square w-full overflow-hidden bg-stone-100 border border-[var(--color-line)] shadow-sm group">
+                <Image
+                  src="/images/about/about-1.webp"
+                  alt={t("section1Title")}
+                  fill
+                  priority
+                  sizes="(max-width: 1024px) 100vw, 600px"
+                  className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+                />
+              </div>
+            </div>
+            <div className="lg:col-span-6 space-y-4">
+              <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block">
+                {t("section1Badge")}
+              </span>
+              <h2 className="text-2xl sm:text-3xl font-light text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-serif)]">
+                {t("section1Title")}
+              </h2>
+              <div className="space-y-3 text-sm sm:text-base text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-sans)]">
+                <p>{t("section1P1")}</p>
+                <p>{t("section1P2")}</p>
+              </div>
+            </div>
+          </section>
+
+          {/* SECTION 2: Text Left, Image Right (on desktop) */}
+          <section className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-14 items-center">
+            <div className="lg:col-span-6 lg:order-1 order-2 space-y-4">
+              <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block">
+                {t("section2Badge")}
+              </span>
+              <h2 className="text-2xl sm:text-3xl font-light text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-serif)]">
+                {t("section2Title")}
+              </h2>
+              <div className="space-y-3 text-sm sm:text-base text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-sans)]">
+                <p>{t("section2P1")}</p>
+                <p>{t("section2P2")}</p>
+              </div>
+            </div>
+            <div className="lg:col-span-6 lg:order-2 order-1">
+              <div className="relative aspect-square w-full overflow-hidden bg-stone-100 border border-[var(--color-line)] shadow-sm group">
+                <Image
+                  src="/images/about/about-2.webp"
+                  alt={t("section2Title")}
+                  fill
+                  sizes="(max-width: 1024px) 100vw, 600px"
+                  className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+                />
+              </div>
+            </div>
+          </section>
         </div>
 
-        {/* Workshop details */}
-        <div className="bg-[var(--color-surface)] p-6 sm:p-8 border border-[var(--color-line)] space-y-4">
-          <h3 className="text-sm font-mono uppercase tracking-wider text-[var(--color-ink)]">
-            {t("infoTitle")}
-          </h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs font-mono">
-            <div>
-              <span className="block text-[var(--color-muted)] uppercase">{t("infoAddressLabel")}</span>
-              <span className="text-[var(--color-ink)] mt-0.5 block">{t("infoAddress")}</span>
+        {/* Google Maps & Workshop Details (Side-by-side) */}
+        <section aria-label={t("infoTitle")} className="border border-[var(--color-line)] bg-[var(--color-surface)] overflow-hidden">
+          <div className="grid grid-cols-1 lg:grid-cols-12 items-stretch">
+            {/* Left: Google Maps Interactive Embed */}
+            <div className="lg:col-span-6 relative min-h-[360px] sm:min-h-[420px] w-full bg-stone-200 border-b lg:border-b-0 lg:border-r border-[var(--color-line)]">
+              <iframe
+                title="Google Maps Workshop Meubel Jati Abror Jepara"
+                src={siteConfig.address.mapsEmbedUrl}
+                className="absolute inset-0 w-full h-full border-0"
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                aria-label="Peta Google Maps Lokasi Workshop Meubel Jati Abror"
+              />
             </div>
-            <div>
-              <span className="block text-[var(--color-muted)] uppercase">{t("infoCategoryLabel")}</span>
-              <span className="text-[var(--color-ink)] mt-0.5 block">{t("infoCategory")}</span>
+
+            {/* Right: Informasi Produksi & Workshop */}
+            <div className="lg:col-span-6 p-6 sm:p-10 flex flex-col justify-between space-y-6">
+              <div>
+                <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block mb-1">
+                  {t("infoBadge")}
+                </span>
+                <h3 className="text-xl sm:text-2xl font-light text-[var(--color-ink)] font-[family-name:var(--font-serif)]">
+                  {t("infoTitle")}
+                </h3>
+              </div>
+
+              <div className="space-y-4 text-xs font-mono">
+                <div className="border-b border-[var(--color-line)] pb-3">
+                  <span className="block text-[var(--color-muted)] uppercase tracking-wider">{t("infoAddressLabel")}</span>
+                  <span className="text-[var(--color-ink)] mt-1 block leading-relaxed font-sans text-sm font-medium">{t("infoAddress")}</span>
+                  <a
+                    href={siteConfig.address.mapsUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 mt-2 text-xs font-mono uppercase tracking-wider text-[var(--color-ink)] hover:text-[var(--color-accent)] underline underline-offset-4 transition-colors font-medium"
+                  >
+                    {t("openGoogleMaps")} &rarr;
+                  </a>
+                </div>
+
+                <div className="border-b border-[var(--color-line)] pb-3">
+                  <span className="block text-[var(--color-muted)] uppercase tracking-wider">{t("infoCategoryLabel")}</span>
+                  <span className="text-[var(--color-ink)] mt-1 block leading-relaxed font-sans text-sm">{t("infoCategory")}</span>
+                </div>
+
+                <div className="border-b border-[var(--color-line)] pb-3">
+                  <span className="block text-[var(--color-muted)] uppercase tracking-wider">{t("infoShippingLabel")}</span>
+                  <span className="text-[var(--color-ink)] mt-1 block leading-relaxed font-sans text-sm">{t("infoShipping")}</span>
+                </div>
+
+                <div>
+                  <span className="block text-[var(--color-muted)] uppercase tracking-wider">{t("infoConsultLabel")}</span>
+                  <span className="text-[var(--color-ink)] mt-1 block leading-relaxed font-sans text-sm">{t("infoConsult")}</span>
+                </div>
+              </div>
             </div>
-            <div>
-              <span className="block text-[var(--color-muted)] uppercase">{t("infoShippingLabel")}</span>
-              <span className="text-[var(--color-ink)] mt-0.5 block">{t("infoShipping")}</span>
-            </div>
-            <div>
-              <span className="block text-[var(--color-muted)] uppercase">{t("infoConsultLabel")}</span>
-              <span className="text-[var(--color-ink)] mt-0.5 block">{t("infoConsult")}</span>
-            </div>
+          </div>
+        </section>
+
+        {/* Action CTA */}
+        <div className="pt-8 border-t border-[var(--color-line)] flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between">
+          <div>
+            <h3 className="text-xl font-light text-[var(--color-ink)] font-[family-name:var(--font-serif)]">
+              {t("ctaTitle")}
+            </h3>
+            <p className="text-xs sm:text-sm text-[var(--color-muted)] font-[family-name:var(--font-sans)] mt-1">
+              {t("ctaDescription")}
+            </p>
+          </div>
+          <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
+            <a
+              href={`https://wa.me/${waNumber}?text=${encodeURIComponent(tWa("inquiryAbout"))}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full sm:w-auto inline-flex items-center justify-center min-h-[48px] px-6 text-xs font-mono uppercase tracking-wider bg-[var(--color-ink)] text-white hover:bg-stone-800 transition-colors gap-2"
+            >
+              <svg className="w-4 h-4 text-[var(--color-whatsapp)] flex-shrink-0" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766 0-3.18-2.586-5.771-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.007c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.861.174.086.275.072.376-.044.101-.116.433-.506.549-.68.116-.173.231-.144.39-.086s1.011.477 1.184.564.289.13.332.203c.044.072.044.419-.1 1.024z" />
+              </svg>
+              {t("ctaWhatsApp")}
+            </a>
+            <Link
+              href="/produk"
+              className="w-full sm:w-auto inline-flex items-center justify-center min-h-[48px] px-6 text-xs font-mono uppercase tracking-wider border border-[var(--color-ink)] text-[var(--color-ink)] hover:bg-[var(--color-surface)] transition-colors"
+            >
+              {t("ctaProducts")} &rarr;
+            </Link>
           </div>
         </div>
       </div>
-
-      {/* Action CTA */}
-      <div className="pt-8 border-t border-[var(--color-line)] flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between">
-        <div>
-          <h3 className="text-lg font-light text-[var(--color-ink)] font-[family-name:var(--font-dm-sans)]">{t("ctaTitle")}</h3>
-          <p className="text-xs sm:text-sm text-[var(--color-muted)] font-[family-name:var(--font-dm-sans)]">{t("ctaDescription")}</p>
-        </div>
-        <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
-          <a
-            href={`https://wa.me/${waNumber}?text=${encodeURIComponent(tWa("inquiryAbout"))}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-full sm:w-auto inline-flex items-center justify-center min-h-[48px] px-6 text-xs font-mono uppercase tracking-wider bg-[var(--color-ink)] text-white hover:bg-stone-800 transition-colors gap-2"
-          >
-            <svg className="w-4 h-4 text-[var(--color-whatsapp)] flex-shrink-0" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766 0-3.18-2.586-5.771-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.007c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.861.174.086.275.072.376-.044.101-.116.433-.506.549-.68.116-.173.231-.144.39-.086s1.011.477 1.184.564.289.13.332.203c.044.072.044.419-.1 1.024z" />
-            </svg>
-            {t("ctaWhatsApp")}
-          </a>
-          <Link
-            href="/produk"
-            className="w-full sm:w-auto inline-flex items-center justify-center min-h-[48px] px-6 text-xs font-mono uppercase tracking-wider border border-[var(--color-ink)] text-[var(--color-ink)] hover:bg-[var(--color-surface)] transition-colors"
-          >
-            {t("ctaProducts")} &rarr;
-          </Link>
-        </div>
-      </div>
-    </div>
     </>
   );
 }
-

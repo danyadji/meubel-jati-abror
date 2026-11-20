@@ -50,7 +50,7 @@ export default function Navbar() {
   return (
     <header
       suppressHydrationWarning
-      className={`z-40 transition-all duration-300 font-[family-name:var(--font-dm-sans)] ${
+      className={`z-40 transition-all duration-300 font-[family-name:var(--font-sans)] ${
         isHome ? "fixed top-0 inset-x-0" : "sticky top-0"
       } ${
         isTransparent

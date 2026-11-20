@@ -2,9 +2,9 @@ import fs from "fs";
 import path from "path";
 import sharp from "sharp";
 
-const WP_API_URL = process.env.WP_API_URL || "http://localhost/inspiring-furni/wordpress";
-const WC_KEY = process.env.WC_READ_KEY || "ck_d896d22d53f24ac23c9f62699c5e3416ea29c2cd";
-const WC_SECRET = process.env.WC_READ_SECRET || "cs_76b14e20def02a954f9504ebd9624cb0e4ce9b7f";
+const WP_API_URL = process.env.WP_API_URL || "http://localhost/meubel-jati-abror";
+const WC_KEY = process.env.WC_CONSUMER_KEY || process.env.WC_READ_KEY || "";
+const WC_SECRET = process.env.WC_CONSUMER_SECRET || process.env.WC_READ_SECRET || "";
 
 const auth = Buffer.from(`${WC_KEY}:${WC_SECRET}`).toString("base64");
 const headers = { Authorization: `Basic ${auth}` };

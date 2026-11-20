@@ -3,7 +3,7 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
 import { CartItem, CartContextType } from "@/types/cart";
 
-const CART_STORAGE_KEY = "inspiring_furni_cart_v1";
+const CART_STORAGE_KEY = "meubel_jati_abror_cart_v1";
 
 const CartContext = createContext<CartContextType | undefined>(undefined);
 

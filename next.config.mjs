@@ -1,11 +1,10 @@
-import type { NextConfig } from "next";
 import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
 
 // Extract remote WordPress hostname dynamically from WP_API_URL if provided
 const wpUrl = process.env.WP_API_URL;
-let wpHostname: string | undefined;
+let wpHostname;
 
 if (wpUrl) {
   try {
@@ -16,7 +15,8 @@ if (wpUrl) {
   } catch {}
 }
 
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   devIndicators: false,
   images: {
     formats: ["image/avif", "image/webp"],
@@ -31,7 +31,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "**.inspiringfurni.com",
+        hostname: "**.meubeljatiabror.com",
       },
       {
         protocol: "https",
@@ -40,11 +40,11 @@ const nextConfig: NextConfig = {
       ...(wpHostname
         ? [
             {
-              protocol: "https" as const,
+              protocol: "https",
               hostname: wpHostname,
             },
             {
-              protocol: "http" as const,
+              protocol: "http",
               hostname: wpHostname,
             },
           ]

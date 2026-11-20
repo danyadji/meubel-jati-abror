@@ -1,7 +1,7 @@
-FOLDER LOGO INSPIRING FURNI
+FOLDER LOGO MEUBEL JATI ABROR
 =============================
 
-Tempat menyimpan file logo website Inspiring Furni.
+Tempat menyimpan file logo website Meubel Jati Abror.
 
 Panduan:
 1. File default yang saat ini digunakan di Navbar adalah:

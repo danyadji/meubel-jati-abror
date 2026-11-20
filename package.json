@@ -1,12 +1,13 @@
 {
-    "name": "inspiring-furni",
+    "name": "meubel-jati-abror",
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "dev": "next dev --turbopack",
+        "dev": "next dev",
         "build": "next build",
         "start": "next start",
         "lint": "eslint",
+        "postinstall": "node scripts/patch-next.mjs",
         "sync:products": "node scripts/sync-wp-products.mjs"
     },
     "dependencies": {

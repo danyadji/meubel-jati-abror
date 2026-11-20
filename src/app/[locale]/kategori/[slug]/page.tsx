@@ -12,6 +12,7 @@ import {
   buildBreadcrumbJsonLd,
   sanitizePublicImage,
 } from "@/lib/seo";
+import { siteConfig } from "@/config/site";
 import ProductCard from "@/components/ProductCard";
 import CategorySlider from "@/components/CategorySlider";
 
@@ -68,7 +69,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title,
       description,
       url: alternates.canonical,
-      siteName: "Inspiring Furni",
+      siteName: siteConfig.name,
       locale: locale === "en" ? "en_US" : "id_ID",
       type: "website",
       images: [

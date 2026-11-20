@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title,
       description,
       url: alternates.canonical,
-      siteName: "Inspiring Furni",
+      siteName: siteConfig.name,
       locale: locale === "en" ? "en_US" : "id_ID",
       type: "website",
       images: [
@@ -101,6 +101,16 @@ export default async function ContactPage({ params }: Props) {
               <p className="text-xs sm:text-sm text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-dm-sans)]">
                 {t("locationValue")}
               </p>
+              {siteConfig.address.mapsUrl && (
+                <a
+                  href={siteConfig.address.mapsUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 mt-1 text-xs font-mono uppercase tracking-wider text-[var(--color-ink)] hover:text-[var(--color-accent)] underline underline-offset-4 transition-colors font-medium"
+                >
+                  Buka di Google Maps &rarr;
+                </a>
+              )}
               <p className="text-xs sm:text-sm text-[var(--color-muted)] mt-1 font-[family-name:var(--font-dm-sans)]">
                 {t("serviceValue")}
               </p>
@@ -114,8 +124,8 @@ export default async function ContactPage({ params }: Props) {
                 <a
                   href={`https://wa.me/${waNumber}?text=${encodeURIComponent(
                     locale === "en"
-                      ? "Hello Inspiring Furni, I would like to consult about furniture."
-                      : "Halo Inspiring Furni, saya ingin konsultasi seputar furnitur kayu jati."
+                      ? `Hello ${siteConfig.name}, I would like to consult about furniture.`
+                      : `Halo ${siteConfig.name}, saya ingin konsultasi seputar furnitur kayu jati.`
                   )}`}
                   target="_blank"
                   rel="noopener noreferrer"

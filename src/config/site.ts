@@ -1,33 +1,36 @@
 export const siteConfig = {
   // Brand identity
-  name: "Inspiring Furni",
-  shortName: "Inspiring Furni",
-  tagline: "Furnitur Kayu Jati Asli Jepara",
+  name: "Meubel Jati Abror",
+  shortName: "Jati Abror",
+  tagline: "Spesialis Furnitur Kayu Jati Solid Jepara",
   description:
-    "Workshop pengrajin furnitur kayu jati asli Jepara tanpa perantara. Spesialis meja makan, kursi, dipan, credenza, serta jendela dan pintu custom.",
+    "Pengrajin dan produsen aneka mebel kayu jati solid kualitas ekspor langsung dari workshop Jepara. Melayani meja makan, kursi, dipan tempat tidur, lemari, hingga pesanan kustom arsitektur tanpa perantara.",
 
   // Primary Domain (Used across SEO, Sitemap, Canonical URLs, and Robots)
-  domain: "https://inspiringfurni.web.id",
+  domain: "https://meubeljatiabror.com",
 
   // Contact & Order transactions
-  whatsappNumber: process.env.NEXT_PUBLIC_WA_NUMBER || "6289518906727",
-  email: "inspiringfurni.id@gmail.com",
+  whatsappNumber: process.env.NEXT_PUBLIC_WA_NUMBER || "62882006407279",
+  email: "meubeljatiabror@gmail.com",
 
   // Physical Workshop / Store Address (Used in Schema.org JSON-LD & Contact page)
   address: {
-    street: "Kecamatan Tahunan",
+    street: "Jl. Raya Tahunan - Batealit",
     city: "Jepara",
     province: "Jawa Tengah",
     postalCode: "59427",
     country: "ID",
-    display: "Tahunan, Jepara, Jawa Tengah, Indonesia",
+    display: "Tahunan, Jepara, Jawa Tengah 59427, Indonesia",
+    mapsUrl: "https://maps.app.goo.gl/1fdUaWfRKZocJ4LZ6",
+    mapsEmbedUrl: "https://maps.google.com/maps?q=-6.6223592,110.696167&hl=id&z=16&output=embed",
   },
 
   // Social Media Links
   socials: {
-    instagram: "https://www.instagram.com/inspiringfurni",
-    tiktok: "https://www.tiktok.com/@inspiringfurni",
-    shopee: "https://shopee.co.id",
+    facebook: "https://www.facebook.com/meubeljatiabror",
+    instagram: "https://www.instagram.com/meubeljatiabror",
+    tiktok: "https://www.tiktok.com/@meubeljatiabror",
+    youtube: "https://www.youtube.com/@meubeljatiabror",
   },
 
   // Brand Media Assets

@@ -73,7 +73,7 @@ export default function FloatingWhatsApp() {
         target="_blank"
         rel="noopener noreferrer"
         className="w-14 h-14 bg-[var(--color-whatsapp)] text-white rounded-full flex items-center justify-center shadow-[0_4px_16px_rgba(37,211,102,0.4)] hover:shadow-[0_6px_22px_rgba(37,211,102,0.55)] hover:scale-105 active:scale-95 transition-all cursor-pointer group"
-        aria-label="Chat WhatsApp Inspiring Furni"
+        aria-label="Chat WhatsApp Meubel Jati Abror"
         title={tWa("floatingTooltip")}
       >
         <svg

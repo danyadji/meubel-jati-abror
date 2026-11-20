@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   const siteUrl = getSiteUrl();
-  const pageTitle = product.seoTitle || `${product.name} | Inspiring Furni`;
+  const pageTitle = product.seoTitle || `${product.name} | ${siteConfig.name}`;
   const rawDesc = product.seoDescription || product.short_description || product.description;
   const description = stripHtmlAndTruncate(rawDesc, 155);
 
@@ -67,7 +67,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: pageTitle,
       description,
       url: alternates.canonical,
-      siteName: "Inspiring Furni",
+      siteName: siteConfig.name,
       locale: locale === "en" ? "en_US" : "id_ID",
       type: "website",
       images: [
