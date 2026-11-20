@@ -1,1767 +1,1189 @@
 [
   {
-    "id": 360,
-    "name": "Jendela Kusen Bulat Dark Brown A",
+    "id": 36,
+    "name": "Kusen Jendela Bulat Kayu Jati Dark Brown",
     "slug": "jendela-kusen-bulat-dark-brown-a",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Dark Brown</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing Dark Brown, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-dark-brown-a-1.png",
-        "alt": "Jendela Kusen Bulat Dark Brown A"
-      },
-      {
-        "src": "/images/products/jendela-kusen-bulat-dark-brown-a-2.png",
-        "alt": "Jendela Kusen Bulat Dark Brown A"
-      }
-    ],
+    "permalink": "https://localhost/meubel-jati-abror/product/jendela-kusen-bulat-dark-brown-a/",
+    "date_created": "2026-11-19T05:24:14",
+    "date_created_gmt": "2026-11-19T05:24:14",
+    "date_modified": "2026-11-19T05:24:15",
+    "date_modified_gmt": "2026-11-19T05:24:15",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Kusen jendela bundar kayu jati asli Jepara. Memberikan sentuhan arsitektural tropis dan estetika modern pada fasad rumah, villa, maupun kamar mandi luxury.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid Jepara</li>\n<li>Diameter: Pilihan 60 cm, 80 cm, 100 cm, 120 cm</li>\n<li>Kaca: Tebal 5 mm (Pilihan Bening / Ryben Rayban)</li>\n<li>Sistem Buka: Engsel putar tengah dengan pengait kuningan antik</li>\n</ul>\n",
+    "short_description": "<p>Kusen jendela bulat jati kaca tebal 5 mm sistem putar engsel kuningan, finishing dark brown.</p>\n",
+    "sku": "",
     "price": "999000",
-    "regular_price": "1998000",
+    "regular_price": "1200000",
+    "sale_price": "999000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
     "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
     "categories": [
       {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
+        "id": 34,
+        "name": "Jendela &amp; Kusen Bulat",
+        "slug": "jendela-kusen-bulat"
       }
     ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 374,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 373,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 372,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 371,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 370,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 369,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 368,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 367,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 366,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 365,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 364,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 363,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 362,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 361,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 343,
-    "name": "Jendela Kusen Bulat Hitam A",
-    "slug": "jendela-kusen-bulat-hitam-a",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Hitam</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing Hitam , dan pilihan diameter 60–120 cm.</p>\n",
+    "brands": [],
+    "tags": [],
     "images": [
       {
-        "src": "/images/products/jendela-kusen-bulat-hitam-a-1.png",
-        "alt": "Jendela Kusen Bulat Hitam A"
-      },
-      {
-        "src": "/images/products/jendela-kusen-bulat-hitam-a-2.png",
-        "alt": "Jendela Kusen Bulat Hitam A"
-      },
-      {
-        "src": "/images/products/jendela-kusen-bulat-hitam-a-3.png",
-        "alt": "Jendela Kusen Bulat Hitam A"
+        "id": 37,
+        "date_created": "2026-11-19T05:24:14",
+        "date_created_gmt": "2026-11-19T05:24:14",
+        "date_modified": "2026-11-19T05:24:14",
+        "date_modified_gmt": "2026-11-19T05:24:14",
+        "src": "/images/products/kusen-jendela-bulat-kayu-jati-dark-brown.jpg",
+        "name": "Kusen Jendela Bulat Kayu Jati Dark Brown",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kusen-jendela-bulat-kayu-jati-dark-brown.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kusen-jendela-bulat-kayu-jati-dark-brown-300x200.jpg 300w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kusen-jendela-bulat-kayu-jati-dark-brown-1024x684.jpg 1024w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kusen-jendela-bulat-kayu-jati-dark-brown-768x513.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kusen-jendela-bulat-kayu-jati-dark-brown-600x401.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kusen-jendela-bulat-kayu-jati-dark-brown-300x300.jpg"
       }
     ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 357,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 356,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 355,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 354,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 353,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 352,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 351,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 350,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 349,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 348,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 347,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 346,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 345,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 344,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 326,
-    "name": "Jendela Kusen Bulat Natural A",
-    "slug": "jendela-kusen-bulat-natural-a",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna:Natural</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing Natural, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-natural-a-1.png",
-        "alt": "Jendela Kusen Bulat Natural A"
-      }
-    ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 340,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 339,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 338,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 337,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 336,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 335,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 334,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 333,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 332,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 331,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 330,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 329,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 328,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 327,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 310,
-    "name": "Jendela Kusen Bulat Hitam D",
-    "slug": "jendela-kusen-bulat-hitam-d",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Hitam</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing Hitam, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-hitam-d-1.png",
-        "alt": "Jendela Kusen Bulat Hitam D"
-      }
-    ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 324,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 323,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 322,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 321,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 320,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 319,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 318,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 317,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 316,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 315,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 314,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 313,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 312,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 311,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 294,
-    "name": "Jendela Kusen Bulat Dark Brown D",
-    "slug": "jendela-kusen-bulat-dark-brown-d",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Dark Brown</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing dark brown, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-dark-brown-d-1.png",
-        "alt": "Jendela Kusen Bulat Dark Brown D"
-      },
-      {
-        "src": "/images/products/jendela-kusen-bulat-dark-brown-d-2.png",
-        "alt": "Jendela Kusen Bulat Dark Brown D"
-      }
-    ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 308,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 307,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 306,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 305,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 304,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 303,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 302,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 301,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 300,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 299,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 298,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 297,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 296,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 295,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 276,
-    "name": "Jendela Kusen Bulat Natural D",
-    "slug": "jendela-kusen-bulat-natural-d",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Black</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing hitam, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-natural-d-1.png",
-        "alt": "Jendela Kusen Bulat Natural D"
-      }
-    ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 290,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 289,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 288,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 287,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 286,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 285,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 284,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 283,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 282,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 281,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 280,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 279,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 278,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 277,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 260,
-    "name": "Jendela Kusen Bulat Dark Brown C",
-    "slug": "jendela-kusen-bulat-dark-brown-c",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Dark Brown</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing dark brown, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-dark-brown-c-1.png",
-        "alt": "Jendela Kusen Bulat Dark Brown C"
-      },
-      {
-        "src": "/images/products/jendela-kusen-bulat-dark-brown-c-2.png",
-        "alt": "Jendela Kusen Bulat Dark Brown C"
-      }
-    ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 274,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 273,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 272,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 271,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 270,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 269,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 268,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 267,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 266,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 265,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 264,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 263,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 262,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 261,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 244,
-    "name": "Jendela Kusen Bulat Natural C",
-    "slug": "jendela-kusen-bulat-natural-c",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Natural</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing natural, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-natural-c-1.png",
-        "alt": "Jendela Kusen Bulat Natural C"
-      }
-    ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 258,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 257,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 256,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 255,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 254,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 253,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 252,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 251,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 250,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 249,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 248,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 247,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 246,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 245,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      }
-    ],
-    "stockStatus": "instock"
-  },
-  {
-    "id": 223,
-    "name": "Jendela Kusen Bulat Hitam C",
-    "slug": "jendela-kusen-bulat-hitam",
-    "description": "<p>SPESIFIKASI</p>\n<p>- Material: kayu jati</p>\n<p>- Bentuk: bulat, diameter 60 cm / 70 cm / 80 cm / 90 cm / 100 cm / 110 cm / 120 cm</p>\n<p>- Kaca: tebal 5 mm, pilihan Kaca Bening &amp; Ryben</p>\n<p>- Sistem buka: putar dengan engsel putar dan pengunci jendela</p>\n<p>- Finishing: NC halus dan rapi</p>\n<p>- Warna: Black</p>\n<p>- Isi paket: kusen jendela bulat</p>\n<p>- Tidak termasuk jasa pemasangan</p>\n<p>&nbsp;</p>\n<p>CARA MEMILIH UKURAN</p>\n<p>Ukur diameter lubang dinding, lalu pilih ukuran. Ragu soal ukuran? Chat kami, kirim foto dinding atau ukurannya, kami bantu pilihkan.</p>\n<p>&nbsp;</p>\n<p>BISA CUSTOM</p>\n<p>Butuh ukuran atau warna lain? Chat kami dengan ukuran yang dibutuhkan, nanti kami infokan kemungkinan dan harganya.</p>\n<p>&nbsp;</p>\n<p>COCOK UNTUK</p>\n<p>Rumah Japandi dan minimalis, villa, kafe, ruang tamu, kamar tidur, dan dekorasi dinding dalam ruangan atau area yang terlindung dari hujan dan panas langsung.</p>\n<p>&nbsp;</p>\n<p>PERAWATAN</p>\n<p>- Bersihkan kaca dengan lap microfiber kering; untuk noda gunakan pembersih kaca non-alkohol</p>\n<p>- Hindari menyiram air langsung ke frame kayu</p>\n<p>- Lap frame dengan kain lembap, lalu segera keringkan</p>\n<p>- Sesekali gunakan furniture polish agar kayu tetap berkilau</p>\n<p>&nbsp;</p>\n<p>PENGIRIMAN &amp; PACKING</p>\n<p>bubble wrap + kardus + peti kayu. Saat paket tiba, mohon cek kesesuaian produk dan rekam video unboxing agar jika ada kerusakan, klaim bisa kami proses cepat. Kami siap bantu lewat chat.</p>\n<p>&nbsp;</p>\n<p>CATATAN</p>\n<p>Serat dan warna kayu jati alami bisa sedikit berbeda antar unit.</p>\n",
-    "short_description": "<p>Kusen jendela bulat kayu jati dengan kaca 5 mm, sistem putar, finishing hitam, dan pilihan diameter 60–120 cm.</p>\n",
-    "images": [
-      {
-        "src": "/images/products/jendela-kusen-bulat-hitam-1.png",
-        "alt": "Jendela Kusen Bulat Hitam C"
-      },
-      {
-        "src": "/images/products/jendela-kusen-bulat-hitam-2.png",
-        "alt": "Jendela Kusen Bulat Hitam C"
-      },
-      {
-        "src": "/images/products/jendela-kusen-bulat-hitam-3.png",
-        "alt": "Jendela Kusen Bulat Hitam C"
-      }
-    ],
-    "price": "999000",
-    "regular_price": "1998000",
-    "on_sale": true,
-    "categories": [
-      {
-        "id": 18,
-        "name": "Jendela Bulat",
-        "slug": "jendela-bulat"
-      }
-    ],
-    "attributes": [
-      {
-        "name": "ukuran",
-        "options": [
-          "60 cm",
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "110 cm",
-          "120 cm"
-        ]
-      },
-      {
-        "name": "jenis kaca",
-        "options": [
-          "bening",
-          "Ryben"
-        ]
-      }
-    ],
-    "variations": [
-      {
-        "id": 243,
-        "price": "3150000",
-        "regular_price": "3150000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 242,
-        "price": "2850000",
-        "regular_price": "2850000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "120 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 241,
-        "price": "2890000",
-        "regular_price": "2890000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 240,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 239,
-        "price": "2160000",
-        "regular_price": "2160000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 238,
-        "price": "999000",
-        "regular_price": "1998000",
-        "sale_price": "999000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 236,
-        "price": "1160000",
-        "regular_price": "2248000",
-        "sale_price": "1160000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "60 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 235,
-        "price": "1455000",
-        "regular_price": "2799000",
-        "sale_price": "1455000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 233,
-        "price": "2600000",
-        "regular_price": "2600000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "110 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 232,
-        "price": "1999000",
-        "regular_price": "1999000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "90 cm",
-          "jenis kaca": "bening"
-        }
-      },
-      {
-        "id": 231,
-        "price": "1790000",
-        "regular_price": "3390000",
-        "sale_price": "1790000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "bening"
-        }
-      },
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>1,200,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp1,200,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>999,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp999,000.00.</span>",
+    "related_ids": [],
+    "meta_data": [
       {
         "id": 226,
-        "price": "2400000",
-        "regular_price": "2400000",
-        "on_sale": false,
-        "attributes": {
-          "ukuran": "100 cm",
-          "jenis kaca": "bening"
-        }
+        "key": "name_en",
+        "value": "Round Teak Window Dark Brown"
       },
       {
-        "id": 225,
-        "price": "1955000",
-        "regular_price": "3690000",
-        "sale_price": "1955000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "80 cm",
-          "jenis kaca": "Ryben"
-        }
-      },
-      {
-        "id": 224,
-        "price": "1580000",
-        "regular_price": "3050000",
-        "sale_price": "1580000",
-        "on_sale": true,
-        "attributes": {
-          "ukuran": "70 cm",
-          "jenis kaca": "Ryben"
-        }
+        "id": 227,
+        "key": "short_description_en",
+        "value": "Circular teak window frame with 5mm glass and rotating pivot hinge."
       }
     ],
-    "stockStatus": "instock"
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/36",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "name": "Meja Kerja Kantor Jati Solid Minimalis",
+    "slug": "meja-kerja-kantor-jati-solid",
+    "permalink": "https://localhost/meubel-jati-abror/product/meja-kerja-kantor-jati-solid/",
+    "date_created": "2026-11-19T05:24:12",
+    "date_created_gmt": "2026-11-19T05:24:12",
+    "date_modified": "2026-11-19T05:24:14",
+    "date_modified_gmt": "2026-11-19T05:24:14",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Meja kerja dirancang khusus untuk kenyamanan bekerja seharian di rumah (home office) maupun kantor profesional. Permukaan kayu jati halus memberikan kenyamanan saat mengetik dan menulis.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid Oven</li>\n<li>Dimensi: 140 cm x 70 cm x 75 cm</li>\n<li>Laci: 2 Laci penyimpanan dokumen &amp; laptop</li>\n</ul>\n",
+    "short_description": "<p>Meja kerja kayu jati solid 140&#215;70 cm dengan 2 laci penyimpanan dan ruang kaki lapang.</p>\n",
+    "sku": "",
+    "price": "3750000",
+    "regular_price": "4200000",
+    "sale_price": "3750000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 33,
+        "name": "Meja Kerja &amp; Belajar",
+        "slug": "meja-kerja-belajar"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 35,
+        "date_created": "2026-11-19T05:24:12",
+        "date_created_gmt": "2026-11-19T05:24:12",
+        "date_modified": "2026-11-19T05:24:12",
+        "date_modified_gmt": "2026-11-19T05:24:12",
+        "src": "/images/products/meja-kerja-kantor-jati-solid-minimalis.jpg",
+        "name": "Meja Kerja Kantor Jati Solid Minimalis",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kerja-kantor-jati-solid-minimalis.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kerja-kantor-jati-solid-minimalis-225x300.jpg 225w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kerja-kantor-jati-solid-minimalis-768x1024.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kerja-kantor-jati-solid-minimalis-1152x1536.jpg 1152w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kerja-kantor-jati-solid-minimalis-600x800.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kerja-kantor-jati-solid-minimalis-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>4,200,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp4,200,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>3,750,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp3,750,000.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 203,
+        "key": "name_en",
+        "value": "Solid Teak Executive Desk"
+      },
+      {
+        "id": 204,
+        "key": "short_description_en",
+        "value": "140x70cm ergonomic teak writing desk with 2 built-in drawers."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/34",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "name": "Credenza Bufet TV Jati Pintu Kisi-Kisi",
+    "slug": "credenza-bufet-tv-jati-kisi",
+    "permalink": "https://localhost/meubel-jati-abror/product/credenza-bufet-tv-jati-kisi/",
+    "date_created": "2026-11-19T05:24:10",
+    "date_created_gmt": "2026-11-19T05:24:10",
+    "date_modified": "2026-11-19T05:24:12",
+    "date_modified_gmt": "2026-11-19T05:24:12",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Bufet TV bergaya Japandi minimalis dengan pintu geser bermotif kisi-kisi (slat wood). Kisi-kisi memungkinkan sinyal remote TV dan sirkulasi udara perangkat elektronik tetap lancar.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid Pilihan</li>\n<li>Dimensi: 180 cm x 45 cm x 55 cm</li>\n<li>Pintu: 2 Pintu Geser Kisi-Kisi + 2 Laci Tengah</li>\n</ul>\n",
+    "short_description": "<p>Bufet TV panjang 180 cm pintu sliding kisi-kisi kayu jati untuk ruang tamu modern.</p>\n",
+    "sku": "",
+    "price": "4200000",
+    "regular_price": "4800000",
+    "sale_price": "4200000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 31,
+        "name": "Lemari &amp; Bufet TV",
+        "slug": "lemari-bufet-tv"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 33,
+        "date_created": "2026-11-19T05:24:10",
+        "date_created_gmt": "2026-11-19T05:24:10",
+        "date_modified": "2026-11-19T05:24:10",
+        "date_modified_gmt": "2026-11-19T05:24:10",
+        "src": "/images/products/credenza-bufet-tv-jati-pintu-kisi-kisi.jpg",
+        "name": "Credenza Bufet TV Jati Pintu Kisi-Kisi",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/credenza-bufet-tv-jati-pintu-kisi-kisi.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/credenza-bufet-tv-jati-pintu-kisi-kisi-200x300.jpg 200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/credenza-bufet-tv-jati-pintu-kisi-kisi-683x1024.jpg 683w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/credenza-bufet-tv-jati-pintu-kisi-kisi-768x1152.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/credenza-bufet-tv-jati-pintu-kisi-kisi-1024x1536.jpg 1024w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/credenza-bufet-tv-jati-pintu-kisi-kisi-600x900.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/credenza-bufet-tv-jati-pintu-kisi-kisi-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>4,800,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp4,800,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>4,200,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp4,200,000.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 180,
+        "key": "name_en",
+        "value": "Slatted Teak TV Credenza"
+      },
+      {
+        "id": 181,
+        "key": "short_description_en",
+        "value": "180cm solid teak media console with slatted sliding doors."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/32",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "name": "Meja Kopi Coffee Table Bundar Jati Solid",
+    "slug": "meja-kopi-coffee-table-bundar-jati",
+    "permalink": "https://localhost/meubel-jati-abror/product/meja-kopi-coffee-table-bundar-jati/",
+    "date_created": "2026-11-19T05:24:09",
+    "date_created_gmt": "2026-11-19T05:24:09",
+    "date_modified": "2026-11-19T05:24:10",
+    "date_modified_gmt": "2026-11-19T05:24:10",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Coffee table bundar yang manis dan fungsional untuk melengkapi ruang keluarga atau ruang tunggu villa. Finishing halus memperlihatkan keindahan urat kayu jati asli Jepara.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid</li>\n<li>Diameter: 70 cm (Tinggi 45 cm)</li>\n<li>Konstruksi: Kaki tripod interlocking solid</li>\n</ul>\n",
+    "short_description": "<p>Meja tamu bundar diameter 70 cm dari kayu jati solid dengan kaki tripod kokoh.</p>\n",
+    "sku": "",
+    "price": "1450000",
+    "regular_price": "1650000",
+    "sale_price": "1450000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 32,
+        "name": "Meja Kopi &amp; Tamu",
+        "slug": "meja-kopi-tamu"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 31,
+        "date_created": "2026-11-19T05:24:09",
+        "date_created_gmt": "2026-11-19T05:24:09",
+        "date_modified": "2026-11-19T05:24:09",
+        "date_modified_gmt": "2026-11-19T05:24:09",
+        "src": "/images/products/meja-kopi-coffee-table-bundar-jati-solid.jpg",
+        "name": "Meja Kopi Coffee Table Bundar Jati Solid",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kopi-coffee-table-bundar-jati-solid.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kopi-coffee-table-bundar-jati-solid-300x200.jpg 300w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kopi-coffee-table-bundar-jati-solid-1024x684.jpg 1024w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kopi-coffee-table-bundar-jati-solid-768x513.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kopi-coffee-table-bundar-jati-solid-600x401.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-kopi-coffee-table-bundar-jati-solid-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>1,650,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp1,650,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>1,450,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp1,450,000.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 157,
+        "key": "name_en",
+        "value": "Round Solid Teak Coffee Table"
+      },
+      {
+        "id": 158,
+        "key": "short_description_en",
+        "value": "70cm diameter round teak coffee table with sturdy tripod base."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/30",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sofa Kursi Santai Jati Retro Vintage 1 Seater",
+    "slug": "sofa-kursi-santai-jati-retro",
+    "permalink": "https://localhost/meubel-jati-abror/product/sofa-kursi-santai-jati-retro/",
+    "date_created": "2026-11-19T05:24:07",
+    "date_created_gmt": "2026-11-19T05:24:07",
+    "date_modified": "2026-11-19T05:24:09",
+    "date_modified_gmt": "2026-11-19T05:24:09",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Armchair santai kayu jati solid dengan sandaran tangan lengkung khas gaya mid-century modern. Dilengkapi bantalan empuk yang bisa dilepas pasang untuk memudahkan pencucian.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Rangka: Kayu Jati Solid Kering</li>\n<li>Busa: Royal Foam Density Tinggi (Anti-Gembos)</li>\n<li>Kain: Fabric Linen Premium</li>\n<li>Dimensi: 72 cm x 80 cm x 82 cm</li>\n</ul>\n",
+    "short_description": "<p>Armchair kayu jati bergaya mid-century dengan bantalan busa royal foam kain kanvas linen.</p>\n",
+    "sku": "",
+    "price": "2800000",
+    "regular_price": "3200000",
+    "sale_price": "2800000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 29,
+        "name": "Kursi &amp; Sofa Jati",
+        "slug": "kursi-sofa-jati"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 29,
+        "date_created": "2026-11-19T05:24:08",
+        "date_created_gmt": "2026-11-19T05:24:08",
+        "date_modified": "2026-11-19T05:24:08",
+        "date_modified_gmt": "2026-11-19T05:24:08",
+        "src": "/images/products/sofa-kursi-santai-jati-retro-vintage-1-seater.jpg",
+        "name": "Sofa Kursi Santai Jati Retro Vintage 1 Seater",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/sofa-kursi-santai-jati-retro-vintage-1-seater.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/sofa-kursi-santai-jati-retro-vintage-1-seater-300x200.jpg 300w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/sofa-kursi-santai-jati-retro-vintage-1-seater-1024x683.jpg 1024w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/sofa-kursi-santai-jati-retro-vintage-1-seater-768x512.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/sofa-kursi-santai-jati-retro-vintage-1-seater-600x400.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/sofa-kursi-santai-jati-retro-vintage-1-seater-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>3,200,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp3,200,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>2,800,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp2,800,000.00.</span>",
+    "related_ids": [
+      22
+    ],
+    "meta_data": [
+      {
+        "id": 134,
+        "key": "name_en",
+        "value": "Mid-Century Teak Armchair"
+      },
+      {
+        "id": 135,
+        "key": "short_description_en",
+        "value": "Solid teak accent chair with ergonomic armrests and premium linen cushions."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/28",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Nakas Samping Kasur Jati 2 Laci",
+    "slug": "nakas-samping-kasur-jati",
+    "permalink": "https://localhost/meubel-jati-abror/product/nakas-samping-kasur-jati/",
+    "date_created": "2026-11-19T05:24:06",
+    "date_created_gmt": "2026-11-19T05:24:06",
+    "date_modified": "2026-11-19T05:24:07",
+    "date_modified_gmt": "2026-11-19T05:24:07",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Nakas samping tempat tidur kayu jati solid berukuran compact. Menampung buku, lampu tidur, dan aksesoris personal dengan rapi dan estetik.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid</li>\n<li>Ukuran: 45 cm x 40 cm x 55 cm</li>\n<li>Fitur: 2 Laci rel kayu halus dengan tarikan tersembunyi</li>\n</ul>\n",
+    "short_description": "<p>Bedside table kayu jati dengan 2 laci penyimpanan dan handle tarikan kayu minimalis.</p>\n",
+    "sku": "",
+    "price": "950000",
+    "regular_price": "1150000",
+    "sale_price": "950000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 30,
+        "name": "Dipan &amp; Tempat Tidur",
+        "slug": "dipan-tempat-tidur"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 27,
+        "date_created": "2026-11-19T05:24:06",
+        "date_created_gmt": "2026-11-19T05:24:06",
+        "date_modified": "2026-11-19T05:24:06",
+        "date_modified_gmt": "2026-11-19T05:24:06",
+        "src": "/images/products/nakas-samping-kasur-jati-2-laci.jpg",
+        "name": "Nakas Samping Kasur Jati 2 Laci",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/nakas-samping-kasur-jati-2-laci.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/nakas-samping-kasur-jati-2-laci-200x300.jpg 200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/nakas-samping-kasur-jati-2-laci-683x1024.jpg 683w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/nakas-samping-kasur-jati-2-laci-768x1152.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/nakas-samping-kasur-jati-2-laci-1024x1536.jpg 1024w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/nakas-samping-kasur-jati-2-laci-600x900.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/nakas-samping-kasur-jati-2-laci-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>1,150,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp1,150,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>950,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp950,000.00.</span>",
+    "related_ids": [
+      24
+    ],
+    "meta_data": [
+      {
+        "id": 111,
+        "key": "name_en",
+        "value": "2-Drawer Solid Teak Bedside Table"
+      },
+      {
+        "id": 112,
+        "key": "short_description_en",
+        "value": "Compact solid teak nightstand with two drawers and clean minimalist lines."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/26",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Dipan Tempat Tidur Jati Spindle Minimalis",
+    "slug": "dipan-tempat-tidur-jati-spindle",
+    "permalink": "https://localhost/meubel-jati-abror/product/dipan-tempat-tidur-jati-spindle/",
+    "date_created": "2026-11-19T05:24:04",
+    "date_created_gmt": "2026-11-19T05:24:04",
+    "date_modified": "2026-11-19T05:24:05",
+    "date_modified_gmt": "2026-11-19T05:24:05",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Tempat tidur kayu jati desain spindle yang menghadirkan nuansa ketenangan alami di kamar tidur Anda. Dibuat dengan presisi tinggi oleh pengrajin Jepara sehingga rangka sangat kokoh dan tidak bersuara saat digunakan.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid Pilihan Oven</li>\n<li>Pilihan Ukuran Matras: Queen (160x200 cm), King (180x200 cm)</li>\n<li>Tinggi Headboard: 105 cm</li>\n<li>Finishing: Sanding Sealer + NC Doff Halus</li>\n</ul>\n",
+    "short_description": "<p>Rangka tempat tidur jati solid headboard spindle jari-jari, konstruksi stabil tanpa derit.</p>\n",
+    "sku": "",
+    "price": "5200000",
+    "regular_price": "6000000",
+    "sale_price": "5200000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 30,
+        "name": "Dipan &amp; Tempat Tidur",
+        "slug": "dipan-tempat-tidur"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 25,
+        "date_created": "2026-11-19T05:24:05",
+        "date_created_gmt": "2026-11-19T05:24:05",
+        "date_modified": "2026-11-19T05:24:05",
+        "date_modified_gmt": "2026-11-19T05:24:05",
+        "src": "/images/products/dipan-tempat-tidur-jati-spindle-minimalis.jpg",
+        "name": "Dipan Tempat Tidur Jati Spindle Minimalis",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/dipan-tempat-tidur-jati-spindle-minimalis.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/dipan-tempat-tidur-jati-spindle-minimalis-300x200.jpg 300w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/dipan-tempat-tidur-jati-spindle-minimalis-1024x683.jpg 1024w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/dipan-tempat-tidur-jati-spindle-minimalis-768x512.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/dipan-tempat-tidur-jati-spindle-minimalis-600x400.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/dipan-tempat-tidur-jati-spindle-minimalis-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>6,000,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp6,000,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>5,200,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp5,200,000.00.</span>",
+    "related_ids": [
+      26
+    ],
+    "meta_data": [
+      {
+        "id": 88,
+        "key": "name_en",
+        "value": "Spindle Solid Teak Bed Frame"
+      },
+      {
+        "id": 89,
+        "key": "short_description_en",
+        "value": "Minimalist teak bed frame with vertical spindle headboard and squeak-free construction."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/24",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Kursi Makan Jati Ropan Sandaran Lengkung",
+    "slug": "kursi-makan-jati-ropan",
+    "permalink": "https://localhost/meubel-jati-abror/product/kursi-makan-jati-ropan/",
+    "date_created": "2026-11-19T05:24:02",
+    "date_created_gmt": "2026-11-19T05:24:02",
+    "date_modified": "2026-11-19T05:24:04",
+    "date_modified_gmt": "2026-11-19T05:24:04",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Kursi makan model Ropan yang memadukan kehangatan kayu jati alami dengan ergonomi sandaran punggung yang pas. Sangat cocok dipadukan dengan meja makan minimalis untuk hunian modern maupun kafe dan restoran.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid Jepara</li>\n<li>Dimensi: 52 cm x 48 cm x 78 cm (Tinggi Dudukan 45 cm)</li>\n<li>Finishing: Natural Wood Bleached / Dark Teak</li>\n<li>Konstruksi: Pasak kayu jati kokoh, beban maksimal hingga 130 kg</li>\n</ul>\n",
+    "short_description": "<p>Kursi makan kayu jati bergaya scandinavian dengan sandaran lengkung ergonomis dan dudukan kokoh.</p>\n",
+    "sku": "",
+    "price": "850000",
+    "regular_price": "950000",
+    "sale_price": "850000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 29,
+        "name": "Kursi &amp; Sofa Jati",
+        "slug": "kursi-sofa-jati"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 23,
+        "date_created": "2026-11-19T05:24:03",
+        "date_created_gmt": "2026-11-19T05:24:03",
+        "date_modified": "2026-11-19T05:24:03",
+        "date_modified_gmt": "2026-11-19T05:24:03",
+        "src": "/images/products/kursi-makan-jati-ropan-sandaran-lengkung.jpg",
+        "name": "Kursi Makan Jati Ropan Sandaran Lengkung",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kursi-makan-jati-ropan-sandaran-lengkung.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kursi-makan-jati-ropan-sandaran-lengkung-200x300.jpg 200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kursi-makan-jati-ropan-sandaran-lengkung-683x1024.jpg 683w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kursi-makan-jati-ropan-sandaran-lengkung-768x1151.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kursi-makan-jati-ropan-sandaran-lengkung-1025x1536.jpg 1025w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kursi-makan-jati-ropan-sandaran-lengkung-600x900.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/kursi-makan-jati-ropan-sandaran-lengkung-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>950,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp950,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>850,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp850,000.00.</span>",
+    "related_ids": [
+      28
+    ],
+    "meta_data": [
+      {
+        "id": 65,
+        "key": "name_en",
+        "value": "Curved Solid Teak Dining Chair"
+      },
+      {
+        "id": 66,
+        "key": "short_description_en",
+        "value": "Ergonomic curved teak dining chair with solid Scandinavian design."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/22",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Meja Makan Jati Solid Minimalis 6 Kursi",
+    "slug": "meja-makan-jati-minimalis",
+    "permalink": "https://localhost/meubel-jati-abror/product/meja-makan-jati-minimalis/",
+    "date_created": "2026-11-19T05:24:01",
+    "date_created_gmt": "2026-11-19T05:24:01",
+    "date_modified": "2026-11-19T05:24:02",
+    "date_modified_gmt": "2026-11-19T05:24:02",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Meja makan kayu jati solid berkualitas ekspor yang diproduksi langsung oleh pengrajin Jepara. Menggunakan kayu jati pilihan yang telah melalui proses oven (kiln-dried) dengan kadar air terukur sehingga bebas retak dan melengkung.</p>\n<h3>SPESIFIKASI</h3>\n<ul>\n<li>Material: Kayu Jati Solid Pilihan (Tua &amp; Kering)</li>\n<li>Ukuran Meja: 180 cm x 90 cm x 76 cm</li>\n<li>Ketebalan Daun Meja: 3,5 cm solid (tanpa tempelan)</li>\n<li>Finishing: Natural Teak Doff / Satin dengan lapisan pelindung anti-air &amp; panas</li>\n<li>Konstruksi: Sambungan tradisional mortise &amp; tenon (purus &amp; pasak)</li>\n</ul>\n<h3>LAYANAN CUSTOM</h3>\n<p>Melayani penyesuaian ukuran (160 cm, 200 cm, 240 cm) serta warna finishing sesuai konsep ruang makan rumah atau villa Anda.</p>\n",
+    "short_description": "<p>Set meja makan kayu jati solid tebal 3,5 cm dengan sambungan purus pasak khas Jepara, muat 6 orang.</p>\n",
+    "sku": "",
+    "price": "4750000",
+    "regular_price": "5500000",
+    "sale_price": "4750000",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 28,
+        "name": "Meja Makan Jati",
+        "slug": "meja-makan-jati"
+      }
+    ],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 21,
+        "date_created": "2026-11-19T05:24:02",
+        "date_created_gmt": "2026-11-19T05:24:02",
+        "date_modified": "2026-11-19T05:24:02",
+        "date_modified_gmt": "2026-11-19T05:24:02",
+        "src": "/images/products/meja-makan-jati-solid-minimalis-6-kursi.jpg",
+        "name": "Meja Makan Jati Solid Minimalis 6 Kursi",
+        "alt": "",
+        "srcset": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-makan-jati-solid-minimalis-6-kursi.jpg 1200w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-makan-jati-solid-minimalis-6-kursi-300x169.jpg 300w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-makan-jati-solid-minimalis-6-kursi-1024x576.jpg 1024w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-makan-jati-solid-minimalis-6-kursi-768x432.jpg 768w, https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-makan-jati-solid-minimalis-6-kursi-600x338.jpg 600w",
+        "sizes": "(max-width: 1200px) 100vw, 1200px",
+        "thumbnail": "https://localhost/meubel-jati-abror/wp-content/uploads/2026/11/meja-makan-jati-solid-minimalis-6-kursi-300x300.jpg"
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>5,500,000.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: Rp5,500,000.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\" translate=\"no\" dir=\"auto\">Rp</span>4,750,000.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: Rp4,750,000.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 42,
+        "key": "name_en",
+        "value": "Minimalist Solid Teak Dining Table"
+      },
+      {
+        "id": 43,
+        "key": "short_description_en",
+        "value": "Solid teak dining table with traditional mortise and tenon joinery, seats 6 comfortably."
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "customs_commodity_code": null,
+    "customs_country_of_origin": null,
+    "customs_description": null,
+    "_links": {
+      "self": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products/20",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://localhost/meubel-jati-abror/wp-json/wc/v3/products"
+        }
+      ]
+    }
   }
 ]
