@@ -82,7 +82,7 @@ export default async function TermsPage({ params }: Props) {
           <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block mb-2">
             {t("badge")}
           </span>
-          <h1 className="text-3xl sm:text-4xl font-light text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-serif)]">
+          <h1 className="text-3xl sm:text-4xl font-semibold text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
             {t("title")}
           </h1>
           <p className="text-xs font-mono text-[var(--color-muted)] mt-2">
@@ -97,7 +97,7 @@ export default async function TermsPage({ params }: Props) {
           </p>
 
           <section className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-normal text-[var(--color-ink)] font-[family-name:var(--font-serif)]">
+            <h2 className="text-lg sm:text-xl font-medium text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
               {t("sec1Title")}
             </h2>
             <p className="text-[var(--color-muted)] text-sm sm:text-base">
@@ -106,7 +106,7 @@ export default async function TermsPage({ params }: Props) {
           </section>
 
           <section className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-normal text-[var(--color-ink)] font-[family-name:var(--font-serif)]">
+            <h2 className="text-lg sm:text-xl font-medium text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
               {t("sec2Title")}
             </h2>
             <p className="text-[var(--color-muted)] text-sm sm:text-base">
@@ -115,7 +115,7 @@ export default async function TermsPage({ params }: Props) {
           </section>
 
           <section className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-normal text-[var(--color-ink)] font-[family-name:var(--font-serif)]">
+            <h2 className="text-lg sm:text-xl font-medium text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
               {t("sec3Title")}
             </h2>
             <p className="text-[var(--color-muted)] text-sm sm:text-base">
@@ -124,7 +124,7 @@ export default async function TermsPage({ params }: Props) {
           </section>
 
           <section className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-normal text-[var(--color-ink)] font-[family-name:var(--font-serif)]">
+            <h2 className="text-lg sm:text-xl font-medium text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
               {t("sec4Title")}
             </h2>
             <p className="text-[var(--color-muted)] text-sm sm:text-base">
@@ -133,7 +133,7 @@ export default async function TermsPage({ params }: Props) {
           </section>
 
           <section className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-normal text-[var(--color-ink)] font-[family-name:var(--font-serif)]">
+            <h2 className="text-lg sm:text-xl font-medium text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
               {t("sec5Title")}
             </h2>
             <p className="text-[var(--color-muted)] text-sm sm:text-base">

@@ -40,10 +40,10 @@ export default function Hero({
       </div>
 
       <div className="relative z-10 max-w-[1280px] w-full mx-auto px-4 sm:px-8 text-center pt-32 sm:pt-40 pb-20 sm:pb-28 flex flex-col items-center justify-center">
-        {/* Master Headline in Solid Serif */}
-        <h1 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl font-normal tracking-tight max-w-4xl mx-auto leading-[1.14] font-[family-name:var(--font-serif)] text-white drop-shadow-[0_2px_20px_rgba(0,0,0,0.6)]">
+        {/* Master Headline */}
+        <h1 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl font-semibold tracking-tight max-w-4xl mx-auto leading-[1.14] font-[family-name:var(--font-sans)] text-white drop-shadow-[0_2px_20px_rgba(0,0,0,0.6)]">
           {title1} <br className="hidden sm:inline" />
-          <span className="font-normal text-light">{title2}</span>
+          <span className="font-light tracking-wide">{title2}</span>
         </h1>
 
         {/* Informative Subtitle */}

@@ -33,7 +33,7 @@ export default function FaqSection() {
         </span>
         <h2
           id="faq-heading"
-          className="text-2xl sm:text-3xl font-light text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-serif)]"
+          className="text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]"
         >
           {t("title")}
         </h2>
