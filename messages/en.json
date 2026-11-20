@@ -16,7 +16,11 @@
     "categoryNotFound": "Category Not Found",
     "breadcrumbHome": "Home",
     "breadcrumbCatalog": "Product Catalog",
-    "breadcrumbCategories": "Categories"
+    "breadcrumbCategories": "Categories",
+    "privacyTitle": "Privacy Policy | Meubel Jati Abror",
+    "privacyDescription": "Privacy policy and customer data protection at Meubel Jati Abror Jepara.",
+    "termsTitle": "Terms & Conditions of Ordering | Meubel Jati Abror",
+    "termsDescription": "Terms of service, down payment installment policy, cargo truck delivery from Jepara, and workshop warranty."
   },
   "NotFound": {
     "title": "Page Not Found",
@@ -96,6 +100,10 @@
     "addToCart": "Add to Cart",
     "addToCartMobile": "+ Cart",
     "askWhatsApp": "Inquire via WhatsApp",
+    "trustTeak": "100% Authentic Solid Teak Wood",
+    "trustCargo": "Door-to-Door Freight Truck Delivery",
+    "trustDp": "Flexible DP & QC Video Inspection",
+    "trustWarranty": "Structural Replacement Warranty",
     "accordionDescription": "Description & Specifications",
     "accordionEstimasi": "Production Timeline",
     "accordionEstimasiContent": "Standard stock items ship within 2 to 4 working days. Custom dimensions or bespoke stain requests require 7 to 14 working days.",
@@ -242,5 +250,50 @@
     "inquiryProductWithVariant": "Hello Meubel Jati Abror, I have an inquiry about {product} ({variant}).\n\nProduct link:\n{url}\n\nCould you provide estimated production time and shipping cost?",
     "inquiryProductStandard": "Hello Meubel Jati Abror, I have an inquiry about {product}.\n\nProduct link:\n{url}\n\nCould you provide estimated production time and shipping cost?",
     "floatingTooltip": "Chat with Workshop"
+  },
+  "Privacy": {
+    "badge": "Transparency & Security",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: 2026",
+    "intro": "At Meubel Jati Abror, we respect your personal data and privacy. This policy outlines how we handle the information you provide during consultation and checkout.",
+    "sec1Title": "1. Information We Collect",
+    "sec1Text": "When placing an inquiry or cart order, we collect: Full name, active WhatsApp/phone number, delivery address (including city and postal code), and optional email. This information is exclusively used for order verification, cargo shipping calculations, and delivery waybills.",
+    "sec2Title": "2. Use of Information",
+    "sec2Text": "Your details are strictly used internally by Meubel Jati Abror and shared only with our designated freight truck drivers for physical delivery. We NEVER sell, lease, or distribute your private information to third parties.",
+    "sec3Title": "3. Security & Transaction Integrity",
+    "sec3Text": "Order discussions and transaction confirmations take place directly via our verified WhatsApp channels. We uphold absolute confidentiality regarding payment transfers and client details.",
+    "sec4Title": "4. Customer Inquiries & Rights",
+    "sec4Text": "If you wish to update or remove your details from our records, please contact our workshop team via WhatsApp or email us at meubeljatiabror@gmail.com."
+  },
+  "Terms": {
+    "badge": "Order Guidelines & Policies",
+    "title": "Terms & Conditions of Ordering",
+    "lastUpdated": "Effective as of 2026",
+    "intro": "These terms govern the ordering workflow, installment payments, cargo freight logistics, and product warranty at Meubel Jati Abror to ensure complete transparency between buyers and our artisan workshop.",
+    "sec1Title": "1. Inquiries & Custom Specifications",
+    "sec1Text": "Orders are initiated through our online catalog and finalized via verified WhatsApp communication. Clients may customize furniture dimensions, teak grades, and finishing colors (Natural Teak, Salak Brown, Dark Walnut, etc.) prior to production.",
+    "sec2Title": "2. Payment Terms & Down Payment (DP)",
+    "sec2Text": "For made-to-order and bespoke items, a 30% to 50% down payment is required to secure raw lumber and begin crafting. The remaining balance (50%) is settled upon completion, verified via detailed Quality Control photos and videos before cargo dispatch.",
+    "sec3Title": "3. Freight Logistics & Packaging",
+    "sec3Text": "Deliveries are dispatched directly from our Jepara workshop via specialized door-to-door furniture freight carriers across Java, Bali, Sumatra, Kalimantan, Sulawesi, and overseas ports. Items are protected with 3 layers: anti-scratch foamsheet, heavy corrugated single-face carton, and solid wood corner crates.",
+    "sec4Title": "4. Shipping Costs",
+    "sec4Text": "Freight rates are determined transparently based on total volume (cubic meters) and distance. Shipping costs can be paid directly to the freight driver upon arrival (COD Freight) or transferred along with the final invoice.",
+    "sec5Title": "5. Warranty & Reception Protocol",
+    "sec5Text": "Customers are encouraged to inspect furniture upon handover. We guarantee replacement or repair for structural defects in joinery or solid wood stability. For minor transit scuffs, touch-up materials or local repair reimbursements are promptly provided."
+  },
+  "Faq": {
+    "badge": "Workshop Transparency",
+    "title": "Frequently Asked Questions (FAQ)",
+    "description": "Essential details regarding bespoke orders, cargo freight delivery from Jepara, and craftsmanship warranties.",
+    "q1": "Are all pieces crafted from 100% authentic solid teak wood?",
+    "a1": "Yes, every piece at Meubel Jati Abror is crafted exclusively from selected solid teak timber (never particle board or MDF). We employ traditional Jepara mortise-and-tenon joinery with solid wood dowels for extreme durability spanning decades.",
+    "q2": "How does freight shipping work for inter-island destinations?",
+    "a2": "We ship using specialized furniture freight trucks operating directly out of Jepara, delivering door-to-door to your residence or project site. Every unit is packaged in 3 protective layers: shock-absorbing foam, heavy single-face carton, and corner wooden crating.",
+    "q3": "Can I pay in installments with a Down Payment (DP)?",
+    "a3": "Yes. Custom orders require an initial 30%–50% DP to commence woodwork. The final balance is only settled once production is complete and you have inspected our comprehensive QC video and photo inspection.",
+    "q4": "What happens if a piece is damaged or scuffed during transit?",
+    "a4": "We provide transit peace-of-mind. Minor surface scuffs receive a color-matched touch-up kit or local artisan repair compensation. For structural freight damage, we repair or replace the affected unit as agreed.",
+    "q5": "Can I request custom sizes, designer drawings, or specialized finishes?",
+    "a5": "Absolutely. As a direct maker workshop, we welcome architectural schematics, bespoke room dimensions, and diverse finishes including Natural Teak, Salak Brown, Dark Walnut, Bleached Scandinavian, and Matte/Gloss Duco."
   }
 }

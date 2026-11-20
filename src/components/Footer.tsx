@@ -132,8 +132,12 @@ export default function Footer() {
         <div className="mt-14 pt-8 border-t border-stone-800 flex flex-col sm:flex-row items-center justify-between text-[11px] font-mono text-stone-400 gap-4">
           <p>&copy; {new Date().getFullYear()} {siteConfig.name}. {t("rights")}</p>
           <div className="flex space-x-6">
-            <span>{t("privacy")}</span>
-            <span>{t("terms")}</span>
+            <Link href="/privacy" className="hover:text-white transition-colors">
+              {t("privacy")}
+            </Link>
+            <Link href="/terms" className="hover:text-white transition-colors">
+              {t("terms")}
+            </Link>
           </div>
         </div>
       </div>

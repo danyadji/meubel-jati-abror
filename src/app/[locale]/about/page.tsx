@@ -10,6 +10,7 @@ import {
   buildBreadcrumbJsonLd,
 } from "@/lib/seo";
 import { siteConfig } from "@/config/site";
+import FaqSection from "@/components/FaqSection";
 
 export const revalidate = 60;
 
@@ -207,6 +208,9 @@ export default async function AboutPage({
             </div>
           </div>
         </section>
+
+        {/* Section FAQ & Panduan Transparansi Workshop */}
+        <FaqSection />
 
         {/* Action CTA */}
         <div className="pt-8 border-t border-[var(--color-line)] flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between">

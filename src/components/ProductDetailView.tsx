@@ -794,8 +794,28 @@ export default function ProductDetailView({
             </a>
           </div>
 
+          {/* Workshop Trust Pillars */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 py-4 border-t border-[var(--color-line)] text-xs font-mono text-[var(--color-muted)]">
+            <div className="flex items-center gap-2">
+              <span className="text-[var(--color-accent)] font-bold shrink-0">✓</span>
+              <span>{t("trustTeak")}</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="text-[var(--color-accent)] font-bold shrink-0">✓</span>
+              <span>{t("trustCargo")}</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="text-[var(--color-accent)] font-bold shrink-0">✓</span>
+              <span>{t("trustDp")}</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="text-[var(--color-accent)] font-bold shrink-0">✓</span>
+              <span>{t("trustWarranty")}</span>
+            </div>
+          </div>
+
           {/* Accordion: Info, Estimasi, Packing, Garansi */}
-          <div className="border-t border-[var(--color-line)] pt-4 divide-y divide-[var(--color-line)]">
+          <div className="border-t border-[var(--color-line)] pt-2 divide-y divide-[var(--color-line)]">
             {/* Accordion Item: Deskripsi */}
             <div className="py-3">
               <button

@@ -16,7 +16,11 @@
     "categoryNotFound": "Kategori Tidak Ditemukan",
     "breadcrumbHome": "Beranda",
     "breadcrumbCatalog": "Katalog Produk",
-    "breadcrumbCategories": "Kategori"
+    "breadcrumbCategories": "Kategori",
+    "privacyTitle": "Kebijakan Privasi | Meubel Jati Abror",
+    "privacyDescription": "Kebijakan privasi dan perlindungan data pemesan mebel di Meubel Jati Abror Jepara.",
+    "termsTitle": "Syarat & Ketentuan Pemesanan | Meubel Jati Abror",
+    "termsDescription": "Ketentuan pemesanan mebel jati, sistem termin DP, pengiriman kargo truk Jepara, dan garansi workshop."
   },
   "NotFound": {
     "title": "Halaman Tidak Ditemukan",
@@ -96,6 +100,10 @@
     "addToCart": "Tambah ke Keranjang",
     "addToCartMobile": "+ Keranjang",
     "askWhatsApp": "Tanya via WhatsApp",
+    "trustTeak": "100% Kayu Jati Solid Jepara",
+    "trustCargo": "Pengiriman Kargo Truk Door-to-Door",
+    "trustDp": "Bisa Sistem DP & Video QC",
+    "trustWarranty": "Garansi Kerusakan Struktur",
     "accordionDescription": "Deskripsi & Spesifikasi",
     "accordionEstimasi": "Estimasi Pengerjaan",
     "accordionEstimasiContent": "Item stok workshop siap dikirim dalam 2 hingga 4 hari kerja. Pesanan custom ukuran atau permintaan warna khusus membutuhkan waktu 7 sampai 14 hari kerja.",
@@ -242,5 +250,50 @@
     "inquiryProductWithVariant": "Halo Meubel Jati Abror, saya ingin bertanya tentang {product} ({variant}).\n\nLink produk:\n{url}\n\nApakah bisa dibantu informasi estimasi pengerjaan dan ongkir?",
     "inquiryProductStandard": "Halo Meubel Jati Abror, saya ingin bertanya tentang {product}.\n\nLink produk:\n{url}\n\nApakah bisa dibantu informasi estimasi pengerjaan dan ongkir?",
     "floatingTooltip": "Konsultasi Pengrajin"
+  },
+  "Privacy": {
+    "badge": "Transparansi & Keamanan",
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir diperbarui: 2026",
+    "intro": "Di Meubel Jati Abror, kami menghormati privasi dan keamanan data pribadi setiap pengunjung dan pelanggan. Kebijakan ini menjelaskan bagaimana kami mengelola data yang Anda berikan saat bertransaksi atau berkonsultasi.",
+    "sec1Title": "1. Data yang Kami Kumpulkan",
+    "sec1Text": "Saat Anda melakukan pemesanan melalui keranjang atau form konsultasi, kami mengumpulkan data berupa: Nama lengkap, Nomor WhatsApp/telepon aktif, Alamat pengiriman lengkap (termasuk kota dan kode pos), dan Alamat email (opsional). Data ini semata-mata digunakan untuk konfirmasi pesanan, perhitungan ongkos kirim kargo, dan pembuatan surat jalan pengiriman.",
+    "sec2Title": "2. Penggunaan Data",
+    "sec2Text": "Data Anda hanya digunakan secara internal oleh pihak workshop Meubel Jati Abror dan diteruskan ke pihak ekspedisi kargo truk resmi yang mengantar perabot ke alamat Anda. Kami TIDAK PERNAH menjual, menyewakan, atau menyalahgunakan data Anda untuk pihak ketiga mana pun.",
+    "sec3Title": "3. Keamanan Informasi",
+    "sec3Text": "Komunikasi pemesanan dan konfirmasi pembayaran dilakukan secara langsung dan transparan melalui saluran resmi WhatsApp kami. Kami menjaga kerahasiaan nomor rekening dan data transaksi Anda.",
+    "sec4Title": "4. Pertanyaan & Hak Pelanggan",
+    "sec4Text": "Jika Anda memiliki pertanyaan mengenai data Anda atau ingin memperbarui/menghapus data kontak dari arsip kami, silakan hubungi customer service kami melalui WhatsApp atau email resmi meubeljatiabror@gmail.com."
+  },
+  "Terms": {
+    "badge": "Panduan Transaksi & Kerjasama",
+    "title": "Syarat & Ketentuan Pemesanan",
+    "lastUpdated": "Berlaku efektif sejak 2026",
+    "intro": "Ketentuan berikut mengatur alur pemesanan, skema pembayaran bertahap (DP), sistem ekspedisi pengiriman kargo, dan garansi produk di Meubel Jati Abror Jepara untuk menjamin kenyamanan dan transparansi antara pembeli dan pengrajin.",
+    "sec1Title": "1. Alur Pemesanan & Spesifikasi",
+    "sec1Text": "Pemesanan dapat dilakukan melalui katalog website yang terhubung langsung ke WhatsApp resmi workshop. Pembeli berhak mengonsultasikan dimensi ukuran, pilihan warna finishing (natural, salak brown, walnut, dll.), dan grade kayu jati solid yang diinginkan sebelum produksi dimulai.",
+    "sec2Title": "2. Sistem Pembayaran & DP (Termin)",
+    "sec2Text": "Untuk pesanan stok mentah (preorder) atau kustom, sistem pembayaran menggunakan DP (Down Payment) sebesar 30% sampai 50% sebagai tanda jadi pengerjaan dan pembelian bahan baku. Sisa pelunasan (50%) dibayarkan setelah produk dinyatakan selesai 100% dan pembeli telah menerima bukti foto serta video pengecekan fisik (Quality Control) sebelum perabot dimuat ke armada truk ekspedisi.",
+    "sec3Title": "3. Ekspedisi & Pengiriman Kargo Truk",
+    "sec3Text": "Pengiriman seluruh pesanan dilakukan langsung dari workshop kami di Jepara menggunakan armada ekspedisi truk kargo khusus mebel ke seluruh Pulau Jawa, Bali, Sumatera, Kalimantan, Sulawesi, hingga pulau lainnya secara door-to-door. Standar pengemasan menggunakan 3 lapisan: Foamsheet anti gores, kardus single-face tebal, dan palet kayu pelindung sudut.",
+    "sec4Title": "4. Biaya Ongkos Kirim",
+    "sec4Text": "Biaya ongkos kirim kargo dihitung berdasarkan volume kubikasi barang dan jarak tempuh. Ongkir dapat dibayarkan langsung secara transparan kepada supir ekspedisi saat barang tiba di lokasi (COD Ongkir) atau ditransfer bersamaan dengan pelunasan pesanan.",
+    "sec5Title": "5. Garansi Produk & Penerimaan Barang",
+    "sec5Text": "Pembeli wajib memeriksa kondisi fisik furnitur saat diterima dari armada ekspedisi. Kami memberikan garansi penggantian atau perbaikan jika ditemukan cacat struktural pada konstruksi purus/pasak kayu jati. Untuk lecet minor selama perjalanan kargo, kami menyediakan touch-up kit atau mengganti biaya jasa tukang servis setempat."
+  },
+  "Faq": {
+    "badge": "Transparansi Workshop",
+    "title": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "description": "Semua hal yang perlu Anda ketahui mengenai pemesanan, sistem pengiriman kargo dari Jepara, dan garansi kualitas perabot.",
+    "q1": "Apakah perabot dibuat dari 100% kayu jati solid asli?",
+    "a1": "Ya, seluruh furnitur Meubel Jati Abror diproduksi menggunakan kayu jati solid pilihan asli (bukan serbuk pres MDF atau serbuk partikel). Kami menggunakan konstruksi purus dan pasak kayu tradisional khas Jepara untuk memastikan konstruksi kokoh dan tahan puluhan tahun.",
+    "q2": "Bagaimana sistem pengiriman ke luar kota atau luar pulau?",
+    "a2": "Pengiriman menggunakan armada truk ekspedisi kargo khusus mebel Jepara (seperti Dakota Cargo, Baraka, atau ekspedisi truk lokal rekanan) yang mengantar langsung ke depan alamat rumah Anda (door-to-door). Setiap unit dibungkus aman dengan 3 lapis: foamsheet anti gores, kardus tebal single-face, dan rangka palet kayu.",
+    "q3": "Apakah bisa sistem DP (Down Payment) untuk pembayaran?",
+    "a3": "Bisa. Untuk pesanan kustom atau preorder, Anda cukup membayar DP 30%–50% sebagai tanda jadi. Pelunasan baru dibayarkan saat barang sudah selesai 100% dan kami kirimkan video & foto cek fisik detail dari workshop sebelum barang dimuat ke truk ekspedisi.",
+    "q4": "Bagaimana jika barang mengalami lecet atau rusak di jalan?",
+    "a4": "Kami memberikan garansi pengiriman. Jika terdapat lecet minor, kami menyediakan bahan touch-up warna senada atau mengganti biaya servis tukang lokal. Jika terjadi kerusakan fatal pada struktur kayu akibat benturan kargo, kami bertanggung jawab untuk memperbaikinya atau mengganti unit baru sesuai kesepakatan.",
+    "q5": "Bisa kustom ukuran, model gambar sendiri, atau warna finishing?",
+    "a5": "Sangat bisa. Karena kami adalah produsen dan pengrajin langsung (workshop), kami menerima pesanan custom ukuran ruangan, model dari desainer/arsitek, serta aneka pilihan warna finishing: Natural Teak, Salak Brown, Dark Walnut, Bleached, hingga Duco (Doff / Glossy)."
   }
 }

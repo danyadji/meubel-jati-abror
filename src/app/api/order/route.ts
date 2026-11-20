@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getProductBySlug, getProductById } from "@/lib/products";
 import { formatRupiah } from "@/lib/format";
+import { siteConfig } from "@/config/site";
 import idMessages from "../../../../messages/id.json";
 import enMessages from "../../../../messages/en.json";
 import crypto from "crypto";
@@ -35,7 +36,7 @@ const isVercelLocalhost =
   (wpApiUrl.includes("localhost") || wpApiUrl.includes("127.0.0.1"));
 const useSampleData =
   process.env.USE_SAMPLE_DATA === "true" || !wpApiUrl || isVercelLocalhost;
-const waNumber = process.env.NEXT_PUBLIC_WA_NUMBER || "6289518906727";
+const waNumber = process.env.NEXT_PUBLIC_WA_NUMBER || siteConfig.whatsappNumber || "62882006407279";
 
 function basicAuth(key: string, secret: string): string {
   return "Basic " + Buffer.from(`${key}:${secret}`).toString("base64");
