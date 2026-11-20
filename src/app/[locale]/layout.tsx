@@ -10,12 +10,15 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CartDrawer from "@/components/CartDrawer";
 import FloatingWhatsApp from "@/components/FloatingWhatsApp";
+import MobileZoomPreventer from "@/components/MobileZoomPreventer";
 import { CartProvider } from "@/context/CartContext";
 import "../globals.css";
 
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
 };
 
 const plusJakartaSans = Plus_Jakarta_Sans({
@@ -118,6 +121,7 @@ export default async function LocaleLayout({
       <body
         className={`${plusJakartaSans.variable} ${playfairDisplay.variable} ${dmMono.variable} antialiased min-h-screen flex flex-col bg-[var(--color-paper)] text-[var(--color-ink)] selection:bg-[var(--color-accent)] selection:text-white`}
       >
+        <MobileZoomPreventer />
         <NextIntlClientProvider messages={messages}>
           <CartProvider>
             <Navbar />
