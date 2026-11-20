@@ -82,7 +82,7 @@ export default async function TermsPage({ params }: Props) {
           <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block mb-2">
             {t("badge")}
           </span>
-          <h1 className="text-3xl sm:text-4xl font-semibold text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
+          <h1 className="text-3xl sm:text-4xl font-normal text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
             {t("title")}
           </h1>
           <p className="text-xs font-mono text-[var(--color-muted)] mt-2">

@@ -64,7 +64,7 @@ export default function CategorySlider({
                 {badgeText}
               </span>
             )}
-            <h2 className="text-2xl sm:text-4xl font-semibold text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
+            <h2 className="text-2xl sm:text-4xl font-normal text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
               {titleText}
             </h2>
           </div>

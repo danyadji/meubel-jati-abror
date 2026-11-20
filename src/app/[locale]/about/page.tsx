@@ -87,7 +87,7 @@ export default async function AboutPage({
       <div className="max-w-[1280px] mx-auto px-4 sm:px-8 py-10 sm:py-16 space-y-16 sm:space-y-24">
         {/* Header: Hanya Judul "Tentang Kami" di Tengah Halaman */}
         <div className="text-center max-w-2xl mx-auto border-b border-[var(--color-line)] pb-8 sm:pb-12">
-          <h1 className="text-3xl sm:text-5xl font-semibold text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
+          <h1 className="text-3xl sm:text-5xl font-normal text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
             {t("title")}
           </h1>
         </div>
@@ -112,7 +112,7 @@ export default async function AboutPage({
               <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block">
                 {t("section1Badge")}
               </span>
-              <h2 className="text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
+              <h2 className="text-2xl sm:text-3xl font-normal text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
                 {t("section1Title")}
               </h2>
               <div className="space-y-3 text-sm sm:text-base text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-sans)]">
@@ -128,7 +128,7 @@ export default async function AboutPage({
               <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block">
                 {t("section2Badge")}
               </span>
-              <h2 className="text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
+              <h2 className="text-2xl sm:text-3xl font-normal text-[var(--color-ink)] tracking-tight font-[family-name:var(--font-sans)]">
                 {t("section2Title")}
               </h2>
               <div className="space-y-3 text-sm sm:text-base text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-sans)]">
@@ -171,7 +171,7 @@ export default async function AboutPage({
                 <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block mb-1">
                   {t("infoBadge")}
                 </span>
-                <h3 className="text-xl sm:text-2xl font-semibold text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
+                <h3 className="text-xl sm:text-2xl font-normal text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
                   {t("infoTitle")}
                 </h3>
               </div>
@@ -215,7 +215,7 @@ export default async function AboutPage({
         {/* Action CTA */}
         <div className="pt-8 border-t border-[var(--color-line)] flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between">
           <div>
-            <h3 className="text-xl font-semibold text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
+            <h3 className="text-xl font-normal text-[var(--color-ink)] font-[family-name:var(--font-sans)]">
               {t("ctaTitle")}
             </h3>
             <p className="text-xs sm:text-sm text-[var(--color-muted)] font-[family-name:var(--font-sans)] mt-1">

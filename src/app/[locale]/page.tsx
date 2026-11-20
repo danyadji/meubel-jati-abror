@@ -107,7 +107,7 @@ export default async function HomePage({
               <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block">
                 {t("bestSellersBadge")}
               </span>
-              <h2 className="text-2xl sm:text-4xl font-semibold text-[var(--color-ink)] tracking-tight mt-1 font-[family-name:var(--font-sans)]">
+              <h2 className="text-2xl sm:text-4xl font-normal text-[var(--color-ink)] tracking-tight mt-1 font-[family-name:var(--font-sans)]">
                 {t("bestSellersTitle")}
               </h2>
             </div>
@@ -138,7 +138,7 @@ export default async function HomePage({
                 <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-amber-300 font-medium">
                   {t("wholesaleBadge")}
                 </span>
-                <h2 className="text-2xl sm:text-4xl font-semibold tracking-tight leading-snug font-[family-name:var(--font-sans)] text-white">
+                <h2 className="text-2xl sm:text-4xl font-normal tracking-tight leading-snug font-[family-name:var(--font-sans)] text-white">
                   {t("wholesaleTitle")}
                 </h2>
                 <p className="text-sm sm:text-base text-stone-300 max-w-2xl leading-relaxed font-[family-name:var(--font-sans)]">
@@ -174,7 +174,7 @@ export default async function HomePage({
                 <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block">
                   {t("newProductsBadge")}
                 </span>
-                <h2 className="text-2xl sm:text-4xl font-semibold text-[var(--color-ink)] tracking-tight mt-1 font-[family-name:var(--font-sans)]">
+                <h2 className="text-2xl sm:text-4xl font-normal text-[var(--color-ink)] tracking-tight mt-1 font-[family-name:var(--font-sans)]">
                   {t("newProductsTitle")}
                 </h2>
               </div>
@@ -217,7 +217,7 @@ export default async function HomePage({
               <span className="text-[11px] font-mono uppercase tracking-[0.2em] text-[var(--color-muted)] block font-medium">
                 {t("editorialBadge")}
               </span>
-              <h2 className="text-2xl sm:text-4xl font-semibold text-[var(--color-ink)] tracking-tight leading-snug font-[family-name:var(--font-sans)]">
+              <h2 className="text-2xl sm:text-4xl font-normal text-[var(--color-ink)] tracking-tight leading-snug font-[family-name:var(--font-sans)]">
                 {t("editorialTitle")}
               </h2>
               <p className="text-sm sm:text-base text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-sans)]">
